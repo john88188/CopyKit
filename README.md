@@ -1,6 +1,15 @@
 # CopyKit | 摘抄猫 v0.3.0
 
 <p align="center">
+  <a href="./README.zh-CN.md">
+    <img alt="中文" src="https://img.shields.io/badge/中文-README.zh--CN-blue">
+  </a>
+  <a href="./README.en.md">
+    <img alt="English" src="https://img.shields.io/badge/English-README.en-blue">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/john88188/CopyKit/releases/latest">
     <img alt="Latest Release" src="https://img.shields.io/github/v/release/john88188/CopyKit?label=release&color=2ea44f">
   </a>
