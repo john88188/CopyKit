@@ -1,4 +1,4 @@
-﻿# CopyKit | 鎽樻妱鐚?v0.3.1 (English)
+﻿# CopyKit | 摘抄猫 v0.3.1 (English)
 
 ## Community Build Overview
 
@@ -26,7 +26,7 @@ This directory is for community distribution and contains extension artifacts an
 
 ## Brand & Copyright
 
-- Product: **CopyKit | 鎽樻妱鐚?*
+- Product: **CopyKit | 摘抄猫**
 - Website: https://afffun.com/
 - Contact: john88188@outlook.com
 - X: https://x.com/biggor888

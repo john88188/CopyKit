@@ -1,8 +1,8 @@
-﻿# CopyKit | 鎽樻妱鐚?v0.3.1
+﻿# CopyKit | 摘抄猫 v0.3.1
 
 <p align="center">
   <a href="./README.zh-CN.md">
-    <img alt="涓枃" src="https://img.shields.io/badge/涓枃-README.zh--CN-blue">
+    <img alt="中文" src="https://img.shields.io/badge/中文-README.zh--CN-blue">
   </a>
   <a href="./README.en.md">
     <img alt="English" src="https://img.shields.io/badge/English-README.en-blue">
@@ -27,7 +27,7 @@
 
 ## Language
 
-- 涓枃锛歚README.zh-CN.md`
+- 中文：`README.zh-CN.md`
 - English: `README.en.md`
 
 ## Download
@@ -37,14 +37,14 @@
 
 ## Docs
 
-- Usage (涓枃): `USAGE.zh-CN.md`
+- Usage (中文): `USAGE.zh-CN.md`
 - Usage (English): `USAGE.en.md`
-- Privacy Policy (涓枃): `PRIVACY_POLICY.zh-CN.md`
+- Privacy Policy (中文): `PRIVACY_POLICY.zh-CN.md`
 - Privacy Policy (English): `PRIVACY_POLICY.en.md`
 
 ## Brand & Copyright
 
-- Product: **CopyKit | 鎽樻妱鐚?*
+- Product: **CopyKit | 摘抄猫**
 - Website: https://afffun.com/
 - Contact: john88188@outlook.com
 - X: https://x.com/biggor888

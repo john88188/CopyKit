@@ -1,4 +1,4 @@
-﻿# CopyKit | 鎽樻妱鐚?Usage Guide (Community)
+﻿# CopyKit | 摘抄猫 Usage Guide (Community)
 
 ## 1. Install Extension (Developer Mode)
 
@@ -11,7 +11,7 @@
 ## 2. Save Content
 
 1. Select text on a web page, or right-click an image
-2. Choose "Save text to CopyKit | 鎽樻妱鐚? or "Save image to CopyKit | 鎽樻妱鐚?
+2. Choose "Save text to CopyKit | 摘抄猫" or "Save image to CopyKit | 摘抄猫"
 3. Select folder, add tags/notes, then save
 
 ## 3. Translation
