@@ -1,4 +1,4 @@
-# CopyKit | 摘抄猫 v0.3.0 (English)
+﻿# CopyKit | 鎽樻妱鐚?v0.3.1 (English)
 
 ## Community Build Overview
 
@@ -6,12 +6,12 @@ This directory is for community distribution and contains extension artifacts an
 
 ## Download & Verify
 
-- Build package: `build/copykit-v0.3.0.zip`
-- Checksum: `build/copykit-v0.3.0.zip.sha256`
+- Build package: `build/copykit-v0.3.1.zip`
+- Checksum: `build/copykit-v0.3.1.zip.sha256`
 
 ## Install (Developer Mode)
 
-1. Unzip `build/copykit-v0.3.0.zip`
+1. Unzip `build/copykit-v0.3.1.zip`
 2. Open `chrome://extensions/` or `edge://extensions/`
 3. Enable Developer Mode
 4. Click "Load unpacked"
@@ -26,7 +26,8 @@ This directory is for community distribution and contains extension artifacts an
 
 ## Brand & Copyright
 
-- Product: **CopyKit | 摘抄猫**
+- Product: **CopyKit | 鎽樻妱鐚?*
 - Website: https://afffun.com/
 - Contact: john88188@outlook.com
 - X: https://x.com/biggor888
+

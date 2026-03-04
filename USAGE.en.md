@@ -1,8 +1,8 @@
-# CopyKit | 摘抄猫 Usage Guide (Community)
+﻿# CopyKit | 鎽樻妱鐚?Usage Guide (Community)
 
 ## 1. Install Extension (Developer Mode)
 
-1. Unzip `build/copykit-v0.3.0.zip`
+1. Unzip `build/copykit-v0.3.1.zip`
 2. Open `chrome://extensions/` or `edge://extensions/`
 3. Enable Developer Mode
 4. Click "Load unpacked"
@@ -11,7 +11,7 @@
 ## 2. Save Content
 
 1. Select text on a web page, or right-click an image
-2. Choose "Save text to CopyKit | 摘抄猫" or "Save image to CopyKit | 摘抄猫"
+2. Choose "Save text to CopyKit | 鎽樻妱鐚? or "Save image to CopyKit | 鎽樻妱鐚?
 3. Select folder, add tags/notes, then save
 
 ## 3. Translation
@@ -37,3 +37,4 @@
 - Website: https://afffun.com/
 - Email: john88188@outlook.com
 - X: https://x.com/biggor888
+
